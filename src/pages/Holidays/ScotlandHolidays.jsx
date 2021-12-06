@@ -47,7 +47,7 @@ const ScotlandHolidays = () => {
     return (
         <>
             <Header></Header>
-            <div className="container mx-auto py-20 overflow-x-auto">
+            <div className="container mx-auto py-20">
                 <h2 className="text-3xl font-bold pt-10 pb-14">Get Bank Holidays info for: Scotland</h2>
                 <div className="">
                     <div className=" hidden lg:block text-xl">
